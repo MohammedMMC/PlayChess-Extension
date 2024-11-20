@@ -1,0 +1,10 @@
+{
+    "name": "Play Chess First",
+    "description": "You should play a game of chess before entering each site!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "chess.png"
+    }
+  }
